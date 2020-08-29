@@ -10,3 +10,4 @@ def prying_into_the_method
 end
 
 prying_into_the_method
+But it's still under the pry lab right?
